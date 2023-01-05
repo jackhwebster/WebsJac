@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jack Webster</h1>
-<h3 align="center">A third-year electrical engineering student at Queen's University. I enjoy learning new skills and collaborating with others to solve problems.</h3>
+<h3 align="center">I'm a third-year electrical engineering student at Queen's University. I enjoy learning new skills and collaborating with others to solve problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=websjac&label=Profile%20views&color=0e75b6&style=flat" alt="websjac" /> </p>
 
 - 💬 Ask me about **my interests, projects I'm working on and some of my goals**
 
-- 📫 How to reach me **jckwebster@gmail.com**
+- 📫 Reach me at **jckwebster@gmail.com** to chat about opportunities, project ideas or anything at all
+
+- :computer: I'm currently studying electrical engineering
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
