@@ -5,7 +5,7 @@
 
 - :computer: I'm currently studying electrical engineering at Queen's University
 
-- :house::earth_americas: My goal is to eventually build a self-sufficient net-zero home
+- :house: My goal is to eventually build a self-sufficient net-zero home
 
 - 💬 Ask me about **my interests or projects I'm working on**
 
