@@ -3,12 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=websjac&label=Profile%20views&color=0e75b6&style=flat" alt="websjac" /> </p>
 
-- 💬 Ask me about **my interests, projects I'm working on and some of my goals**
+- :computer: I'm currently studying electrical engineering at Queen's University
 
-- 📫 Reach me at **jckwebster@gmail.com** to chat about opportunities, project ideas or anything at all
+- :house::earth: My goal is to eventually build a self-sufficient net-zero home
 
-- :computer: I'm currently studying electrical engineering
+- 💬 Ask me about **my interests or projects I'm working on**
 
+- 📫 Feel free to email me at **jckwebster@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
