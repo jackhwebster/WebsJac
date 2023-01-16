@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebsJac" alt="websjac" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WebsJac" alt="websjac" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WebsJac" alt="websjac" /></p>
 
